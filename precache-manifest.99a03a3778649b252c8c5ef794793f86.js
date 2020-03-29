@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fe017c7248e61cd8adfd7cb87af41053",
+    "revision": "d30403221175c124dfdb303a85a54652",
     "url": "/react-nhl/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-nhl/static/css/2.eb45ad44.chunk.css"
   },
   {
-    "revision": "4d93675d3fb46fce657d",
+    "revision": "1dcc21779957abb2d251",
     "url": "/react-nhl/static/css/main.c1457f1d.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-nhl/static/js/2.a9500bfa.chunk.js.LICENSE"
   },
   {
-    "revision": "4d93675d3fb46fce657d",
-    "url": "/react-nhl/static/js/main.8b8d1880.chunk.js"
+    "revision": "1dcc21779957abb2d251",
+    "url": "/react-nhl/static/js/main.a5080b7f.chunk.js"
   },
   {
     "revision": "8f5b07e5b08a909fc05f",
