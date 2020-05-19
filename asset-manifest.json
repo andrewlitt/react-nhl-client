@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-nhl/static/css/main.c1457f1d.chunk.css",
-    "main.js": "/react-nhl/static/js/main.a5080b7f.chunk.js",
-    "main.js.map": "/react-nhl/static/js/main.a5080b7f.chunk.js.map",
+    "main.css": "/react-nhl/static/css/main.7544edd5.chunk.css",
+    "main.js": "/react-nhl/static/js/main.4840ef36.chunk.js",
+    "main.js.map": "/react-nhl/static/js/main.4840ef36.chunk.js.map",
     "runtime-main.js": "/react-nhl/static/js/runtime-main.3b43b3ae.js",
     "runtime-main.js.map": "/react-nhl/static/js/runtime-main.3b43b3ae.js.map",
     "static/css/2.eb45ad44.chunk.css": "/react-nhl/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.a9500bfa.chunk.js": "/react-nhl/static/js/2.a9500bfa.chunk.js",
-    "static/js/2.a9500bfa.chunk.js.map": "/react-nhl/static/js/2.a9500bfa.chunk.js.map",
+    "static/js/2.971f840d.chunk.js": "/react-nhl/static/js/2.971f840d.chunk.js",
+    "static/js/2.971f840d.chunk.js.map": "/react-nhl/static/js/2.971f840d.chunk.js.map",
     "index.html": "/react-nhl/index.html",
-    "precache-manifest.99a03a3778649b252c8c5ef794793f86.js": "/react-nhl/precache-manifest.99a03a3778649b252c8c5ef794793f86.js",
+    "precache-manifest.b934036e4a6167b3d987cccd317bb684.js": "/react-nhl/precache-manifest.b934036e4a6167b3d987cccd317bb684.js",
     "service-worker.js": "/react-nhl/service-worker.js",
     "static/css/2.eb45ad44.chunk.css.map": "/react-nhl/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.c1457f1d.chunk.css.map": "/react-nhl/static/css/main.c1457f1d.chunk.css.map",
-    "static/js/2.a9500bfa.chunk.js.LICENSE": "/react-nhl/static/js/2.a9500bfa.chunk.js.LICENSE",
+    "static/css/main.7544edd5.chunk.css.map": "/react-nhl/static/css/main.7544edd5.chunk.css.map",
+    "static/js/2.971f840d.chunk.js.LICENSE": "/react-nhl/static/js/2.971f840d.chunk.js.LICENSE",
     "static/media/index.css": "/react-nhl/static/media/FuturaLT.11f68b85.ttf",
     "static/media/circle.png": "/react-nhl/static/media/circle.e6920dd7.png",
     "static/media/diamond.png": "/react-nhl/static/media/diamond.9090a187.png",
@@ -25,8 +25,8 @@
   "entrypoints": [
     "static/js/runtime-main.3b43b3ae.js",
     "static/css/2.eb45ad44.chunk.css",
-    "static/js/2.a9500bfa.chunk.js",
-    "static/css/main.c1457f1d.chunk.css",
-    "static/js/main.a5080b7f.chunk.js"
+    "static/js/2.971f840d.chunk.js",
+    "static/css/main.7544edd5.chunk.css",
+    "static/js/main.4840ef36.chunk.js"
   ]
 }
