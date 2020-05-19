@@ -17,6 +17,7 @@ class Home extends React.Component {
   }
   componentDidMount(){
     const url = (process.env.NODE_ENV === "development") ? API_URL_DEV : API_URL;
+    /*
     fetch(url)
       .then(res => res.json())
       .then(
@@ -29,6 +30,12 @@ class Home extends React.Component {
           })
         }
       )
+    */
+   this.setState({
+     isLoaded: true,
+     date: new Date(),
+     games: []
+   })
   }
   render(){
     const {isLoaded, date, games} = this.state;
@@ -59,7 +66,7 @@ class Home extends React.Component {
                     Example 1
                   </Button>
               </Link>
-              <Link className ="link back-link" to={"/game/2019020100"}>
+              <Link className ="link back-link" to={"/game/2019020342"}>
                   <Button size="large" color="primary">
                     Example 2
                   </Button>
@@ -72,6 +79,7 @@ class Home extends React.Component {
             </div>
           </Paper>
           <div className="card-list">
+            <h3>No games today.</h3>
             {cards}
           </div>
         </div>
